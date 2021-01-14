@@ -8,6 +8,8 @@ fontawesome-free-5.15.1-web/
 diabetes.csv
 titanic/
 UCI HAR Dataset/
+model/
+IMDB/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
