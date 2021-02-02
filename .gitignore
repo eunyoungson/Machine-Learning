@@ -10,6 +10,8 @@ titanic/
 UCI HAR Dataset/
 model/
 IMDB/
+voice/
+keys/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
